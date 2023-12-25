@@ -53,5 +53,5 @@
   "editor.guides.bracketPairs": "active",
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   "git.suggestSmartCommit": true,
-  "editor.mouseWheelZoom": true
+  "editor.mouseWheelZoom": true,
 }
